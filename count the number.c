@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  char s[200];
+  char s[222];
   int count=0;
   printf("Enter the string\n");
   scanf("%[^\n]s",s);
